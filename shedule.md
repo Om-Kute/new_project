@@ -1,5 +1,5 @@
 first complete Linux
-In Linux Learn :- Architecture  , file Structure  , User Management , Directory Management , Group management 
+In Linux Learn :- Architecture  , file Structure  , User Management , Directory Management , Group management ,Process Manegement
 second complete networking
 
 third complete AWS
