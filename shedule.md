@@ -1,5 +1,5 @@
 first complete Linux
-In Linux Learn :- Architecture  , file Structure  , User Management , Directory Management , Group management , Process Management , job Sheduling Commands
+In Linux Learn :- Architecture  , file Structure  , User Management , Directory Management , Group management , Process Management , job Scheduling Commands , Networking Commands , 
 second complete networking
 
 third complete AWS
