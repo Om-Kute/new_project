@@ -2,7 +2,7 @@ first complete Linux
 In Linux Learn :- Architecture  , file Structure  , User Management , Directory Management , Group management , Process Management , job Scheduling Commands , Networking Commands , Log Monitoring commands , txt processing and Formatting commands .
 
 second complete Networking 
-In Networking Learn :- what is N/w , Types Of N/W , VPC , Subnet , CIDR , OSI MODEL , TCP/IP Model , Routing , topologies , ports , IP addresses , DHCP , MAC Addressing 
+In Networking Learn :- what is N/w , Types Of N/W , VPC , Subnet , CIDR , OSI MODEL , TCP/IP Model , Routing , topologies , ports , IP addresses , DHCP , MAC Addressing , DNS 
 
 
 third complete AWS
