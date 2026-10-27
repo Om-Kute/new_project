@@ -3,3 +3,4 @@ Basic understanding about Computer / Fundamentals
 Linux
 Networking
 Cloud Computing
+Amazon Web Services
