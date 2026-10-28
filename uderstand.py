@@ -9,4 +9,5 @@ Google GCP
 Git and Github 
 Docker 
 Kubernetes
-Jenkins /CICD 
+Jenkins / CICD
+Terraform
