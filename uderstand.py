@@ -15,3 +15,4 @@ Ansible
 Github Action
 Prometheus
 Grafana
+Trivy
