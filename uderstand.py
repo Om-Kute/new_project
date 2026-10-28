@@ -9,4 +9,4 @@ Google GCP
 Git and Github 
 Docker 
 Kubernetes
-Jenkins
+Jenkins /CICD 
