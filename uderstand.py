@@ -18,3 +18,4 @@ Grafana
 Trivy
 Python 
 Go 
+Jira
