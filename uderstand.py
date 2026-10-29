@@ -21,5 +21,5 @@ Python
 Go 
 Jira
 Circle CI 
-splunk
-pulumi
+Splunk
+Pulumi
