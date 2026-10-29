@@ -3,6 +3,7 @@ Basic understanding about Computer / Fundamentals
 Linux
 Networking
 Cloud Computing
+Shell Scripting
 Amazon Web Services
 Microsoft Azure 
 Google GCP 
