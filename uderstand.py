@@ -22,3 +22,4 @@ Go
 Jira
 Circle CI 
 splunk
+pulumi
