@@ -17,3 +17,4 @@ Prometheus
 Grafana
 Trivy
 Python 
+Go 
